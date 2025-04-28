@@ -29,3 +29,10 @@ void loop() {
 }
 
 
+//lib to install if lib error
+//DHTlib
+//DHTINT
+//Adafruit Unified Sensor
+//DFRobot_DHT11
+//DFRobot_DHT20
+//DHT Sensor Library
